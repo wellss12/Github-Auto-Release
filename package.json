@@ -4,7 +4,8 @@
   "description": "demo",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/wellss12/Github-Auto-Release/issues"
   },
-  "homepage": "https://github.com/wellss12/Github-Auto-Release#readme"
+  "homepage": "https://github.com/wellss12/Github-Auto-Release#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^18.0.0",
+    "@commitlint/config-conventional": "^18.0.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "husky": "^8.0.0",
+    "semantic-release": "^22.0.5"
+  }
 }
