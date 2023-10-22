@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wellss12/Github-Auto-Release/compare/v1.1.0...v1.2.0) (2023-10-22)
+
+
+### Features
+
+* add xxx ([b67b286](https://github.com/wellss12/Github-Auto-Release/commit/b67b286e7e885943e2750628d1fc68aa6b22ee15))
+
 # [1.1.0](https://github.com/wellss12/Github-Auto-Release/compare/v1.0.0...v1.1.0) (2023-10-22)
 
 
