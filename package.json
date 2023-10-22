@@ -1,0 +1,19 @@
+{
+  "name": "release",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellss12/Github-Auto-Release.git"
+  },
+  "author": "Wells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellss12/Github-Auto-Release/issues"
+  },
+  "homepage": "https://github.com/wellss12/Github-Auto-Release#readme"
+}
